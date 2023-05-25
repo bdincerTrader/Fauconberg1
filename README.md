@@ -1,6 +1,7 @@
 # Fauconberg1
  
- Fauconberg Model: Backtest Results for 'MSTR'
+ Fauconberg Model: Backtest Results for 'MSTR' </br>
+ N-00068 BD_Fauconberg</br>
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/4874ba69-9a10-4239-94ec-a9619f40bc05)
 
