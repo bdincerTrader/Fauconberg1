@@ -35,7 +35,18 @@ JUNE BACKTEST RESULTS: 251 SYMBOL UNIVERSE NO REJECTS.
 [Trades - Fauconberg TRADE FILE](https://github.com/bdincerTrader/Fauconberg1/files/12253887/Trades.-.Fauconberg.08-03.13_26_44.csv)
 
 
-
 [Sumary Table Data](https://github.com/bdincerTrader/Fauconberg1/files/12253886/submission-table-data.15.csv)
 
-/s/ BD.
+
+
+FORWARD TESTING:  8/3/2023 ORDERS
+_ I stopped the ctr to test the aggregator, not sure why you wouldn't see those orders.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/2ea97605-111e-4a83-81a6-c4235fa410d3)
+
+
+LS ORDER BOOK
+Was testing this short book in another ENV. today.
+* have to fix a bunch of stuff for that one.
+  
+[orders_SY.xlsx](https://github.com/bdincerTrader/Fauconberg1/files/12255720/orders_SY.xlsx)
