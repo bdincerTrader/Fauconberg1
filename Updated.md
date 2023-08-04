@@ -50,12 +50,26 @@ Was testing this short book in another ENV. today.
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/76170a34-c377-4183-a7c2-2b9e2ec3bb8f)
 
 
-Got this error when I loaded the Script this AM. For whatever reason it did not accept the blacklisted symbols I parametrized.
+- Finished FWD testing today, I have to run a few tests over the weekend to double check a few things, I'll post you all on Sat or Sunday.
 
+Got this error when I loaded the Script this AM. For whatever reason it did not accept the blacklisted symbols I parametrized.
 ' parameters string is not valid json"
 
 * I left the parameter blank in settings.
 * running in QA with 257 symbols today.
+
+the max cap on my FWD test is set to 100K, the only rejects I see there are from BKNG
+10:26
+R	 	 	BKNG	 	 	 		NO ORDER	 	10:04:30	BD_Fauconberg	FF Max Capital 59*3059.92 > 100000
+R	 	 	BKNG	 	 	 		NO ORDER	 	10:03:41	BD_Fauconberg	FF Max Capital 57*3059.95 > 100000
+R	 	 	BKNG	 	 	 		NO ORDER	 	10:02:45	BD_Fauconberg	FF Max Capital 55*3059.72 > 100000
+10:26
+
+I'm running the long/short version in BDincer Kore.
+10:26
+It also picked up on that one.
+Order Status --  qabdincer Code  Side  Quantity  Symbol  Price    Market Center  Contra  Instruction  CLOrderID    OrderID    Time    Accnt#  Text  TraderID  F  B  100  BKNG  3039.99  GSALGO      104399GZON1  062E6D694C23-402  09:49:20  BDincer Kore  Fill
+
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/45e88896-56c2-4d98-a3d2-9ae59c09fa29)
 
@@ -71,4 +85,6 @@ Got this error when I loaded the Script this AM. For whatever reason it did not 
             
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/2f09931b-0e85-4896-9da4-1c4e42fcf70c)
 
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/94e570d4-54dd-48d3-8c13-b55e38a7de40)
 
