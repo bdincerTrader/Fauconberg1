@@ -88,3 +88,4 @@ Order Status --  qabdincer Code  Side  Quantity  Symbol  Price    Market Center 
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/94e570d4-54dd-48d3-8c13-b55e38a7de40)
 
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/977419dc-9d9a-4f5f-b67a-cf4f632f993c)
