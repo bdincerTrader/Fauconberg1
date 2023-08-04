@@ -50,6 +50,25 @@ Was testing this short book in another ENV. today.
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/76170a34-c377-4183-a7c2-2b9e2ec3bb8f)
 
 
+Got this error when I loaded the Script this AM. For whatever reason it did not accept the blacklisted symbols I parametrized.
 
+' parameters string is not valid json"
+
+* I left the parameter blank in settings.
+* running in QA with 257 symbols today.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/45e88896-56c2-4d98-a3d2-9ae59c09fa29)
+
+
+- I commented out these lines at the onset of the system, will troubleshoot it today.
+
+        print(self.__class__.dntItems);
+        self.arrSymbol=self.__class__.dntItems;
+        if(self.symbol in self.arrSymbol):
+            print(self.symbol, "SYMBOL GATE");
+            service.terminate;
+
+            
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/2f09931b-0e85-4896-9da4-1c4e42fcf70c)
 
 
