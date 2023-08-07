@@ -14,6 +14,7 @@ The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors
 ** If it's ok with you, I want to double check on something tonight/ Tomorrow in back/FWD testing.
 ** Maybe blacklist a few additional symbols.
 
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/620a3d72-7d3e-4fce-b021-e830cfdaac84)
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/32a3038d-6f9b-4808-b6f5-f5b5678de32e)
 
