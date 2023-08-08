@@ -433,3 +433,6 @@ BD_Fauconberg		105	708.23	708.78	57.75	708.23	708.78	57.75	10:55:31
 
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/b4526fb4-12bf-4322-8f42-70323863c030)
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/b5fe5629-7998-49de-b3eb-c9d252519a75)
