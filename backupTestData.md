@@ -96,3 +96,13 @@ Fauconberg Updated.
 
 [executions-table-data (4).csv](https://github.com/bdincerTrader/Fauconberg1/files/12268987/executions-table-data.4.csv)
 [executions-table-data (5).csv](https://github.com/bdincerTrader/Fauconberg1/files/12268986/executions-table-data.5.csv)
+
+
+
+
+
+
+## FWD TEST 08-08-2023
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/337b1332-cd8e-4d0e-8524-f59f4424abda)
