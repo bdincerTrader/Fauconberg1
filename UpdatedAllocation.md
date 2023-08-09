@@ -67,7 +67,21 @@ MELI	1326.94	NSDQ	062E4C22202D-402	10:03:29	BDincer Kore	Fill
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/149a7711-c6b0-4deb-b82d-c594b57cb2f9)
 
+
+
+MELI	1	18	BuySide	8/9/2023 10:02	1,330.00	8/9/2023 10:02	1,332.79
+MELI	1	18	BuySide	8/9/2023 10:03	1,326.79	8/9/2023 10:03	1,329.58
+MELI	1	18	BuySide	8/9/2023 10:38	1,327.15	8/9/2023 10:38	1,329.94
+MELI	1	1	BuySide	8/9/2023 10:46	1,328.63	8/9/2023 10:52	1,325.56
+MELI	1	1	BuySide	8/9/2023 10:51	1,328.07	8/9/2023 10:52	1,325.56
+MELI	1	18	BuySide	8/9/2023 10:52	1,323.30	8/9/2023 10:56	1,325.47
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/535e9efd-ce54-4cae-b79a-d2a4f5bb1c82)
+
+
+
 USING A SYSTEM OF 10/ 20/ 30/ 40 SHARES 
+
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e9706f68-2e67-46f6-b88f-3d3a80d2bea2)
 
