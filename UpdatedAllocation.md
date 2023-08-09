@@ -33,3 +33,10 @@ USING A SYSTEM OF 10/ 20/ 30/ 40 SHARES
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/9d02f425-6a40-412c-af22-5db209fa0ffa)
 
+
+
+LOB  10.85
+ORIG. ON 10.75
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/2b54a0d5-40ad-4785-8475-7ed52016c0f0)
+
