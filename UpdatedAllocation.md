@@ -22,6 +22,14 @@ Comparing AAPL to AAPL, for example - usin gthose two accounts.
 [trades-table-data (3).csv](https://github.com/bdincerTrader/Fauconberg1/files/12303057/trades-table-data.3.csv)
 
 
+
+
+USING A SYSTEM OF 10/ 20/ 30/ 40 SHARES 
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e9706f68-2e67-46f6-b88f-3d3a80d2bea2)
+
+
 10K/ 20K/ 30K Shares 
+
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/9d02f425-6a40-412c-af22-5db209fa0ffa)
 
