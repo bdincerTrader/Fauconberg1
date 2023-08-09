@@ -4,6 +4,47 @@ I added a few elements to control the Max Cap and Unit Allocation Procedures in 
 
 I ran the most recent backtest using 10/20/30K denoms and this was the result.
 
+
+BDincer Kore
+
+
+(-) TIMER.
+(-) i must get this whole selling timer fixed this afternoon.
+
+
+9:51:27	
+F	B	20	MELI	1336.59	NSDQ
+
+** continuously cancelled the sales 
+
+  
+C	SS	20	MELI	1338.24	ARCA	062E3138303E-402	9:53:20	BDincer Kore	User Canceled
+C	SS	20	MELI	1338.24	ARCA	062E1-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.54	ARCA	062E1-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.54	ARCA	062E694C2221-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.54	ARCA	062E1-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.54	ARCA	062E1-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.07	ARCA	062E694C2221-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.07	ARCA	062E694C2221-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.07	ARCA	062E1303932-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1342.07	ARCA	062E694C2221-402	9:53:20	BDincer Kore	User Canceled
+C	SS	120	MELI	1333.16	NSDQ	062E1-402	9:53:20	BDincer Kore	User Canceled
+C	SS	10	MELI	1341.37	ARCA	062E694C2221-402	9:53:20	BDincer Kore	User Canceled
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/32aa56d9-aef2-417f-a2ce-17ca2c35013b)
+
+
+
+* it is supposed to offload a small amount at a time when certain price conditions are met.
+C	SS	20	MSTR	392.75	ARCA	062E1-402	9:53:20	BDincer Kore	User Canceled
+
+R	 	 	MSTR	 	 	 	9:57:00	BDincer Kore	failed pending order check -- num_pending= 41	NO ORDER
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/24afd7e7-6cce-47ea-a46d-2cfee8a48b89)
+
+
+
+
 HASH     6df1a0d2dc9b73bdcb6f16fd0d84c0bc
 
 - No EOD positions.
