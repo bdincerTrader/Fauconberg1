@@ -102,3 +102,7 @@ ORIG. ON 10.75
 market data issues 8-9-2023
 
 [market data issues 8-9-2023.pdf](https://github.com/bdincerTrader/Fauconberg1/files/12305458/market.data.issues.8-9-2023.pdf)
+
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/0ae6d758-9b57-443b-a867-1fcdf6f757e6)
