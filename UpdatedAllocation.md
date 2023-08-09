@@ -4,9 +4,7 @@ I added a few elements to control the Max Cap and Unit Allocation Procedures in 
 
 I ran the most recent backtest using 10/20/30K denoms and this was the result.
 
-HASH
-
-6df1a0d2dc9b73bdcb6f16fd0d84c0bc
+HASH     6df1a0d2dc9b73bdcb6f16fd0d84c0bc
 
 - No EOD positions.
 - Fewer trades.
@@ -40,3 +38,8 @@ ORIG. ON 10.75
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/2b54a0d5-40ad-4785-8475-7ed52016c0f0)
 
+
+
+market data issues 8-9-2023
+
+[market data issues 8-9-2023.pdf](https://github.com/bdincerTrader/Fauconberg1/files/12305458/market.data.issues.8-9-2023.pdf)
