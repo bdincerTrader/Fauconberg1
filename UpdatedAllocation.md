@@ -62,6 +62,10 @@ Comparing AAPL to AAPL, for example - usin gthose two accounts.
 
 
 
+F	B	20	
+MELI	1326.94	NSDQ	062E4C22202D-402	10:03:29	BDincer Kore	Fill
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/149a7711-c6b0-4deb-b82d-c594b57cb2f9)
 
 USING A SYSTEM OF 10/ 20/ 30/ 40 SHARES 
 
