@@ -1,5 +1,21 @@
+## BP + ADJUST DEMIT SYSTEM AS WELL.
+
+_ I TESTED A DEMIT FUNCTION IN SPREADSHEET -THEN HAD TO CALIBRATE THE CODE TO DO THE SAME...
+_ IF YOU LOOK LOWER. IT IS VERY NICE FOR CHIPOTLE AS WELL + CMG.
+
+WELL WORTH THE WAIT (BECAUSE IT ALSO COVERS MORE DOWNSIDE RISK AND TACTICAL ALLOCATION.)
+ BUT YES... I WILL NEED TO RUN THIS IN THE AM AGAIN TOMORROW IN FWD TESTING TO DOUBLE CHECK.
+
+HASH ref.:   d5a8d1f475fb09542b3911594ef08763
+SEE ALSO: BELOW.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/ae7a03f8-2a1e-4736-bf43-220bd972dd14)
+
+
 I just pulled random dates and cut up the Targets into a handful of arrays.
 - here are the results.
+
+
 
 ## 06-21
 
@@ -22,3 +38,30 @@ GROUP G: 'LULU','MA','MCK','MCO','MDB','MDY','MELI','META','MLM','MOH','MPWR','M
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/961a873f-a58b-4887-9345-0009b504a29b)
 
   * this scale is not likely, but possible.
+
+THIS SCALE IS CERTAINLY POSSIBLE.
+
+#####        [ CMG ] 
+
+2023-08-02 11:23
+ERROR: FF Max Capital 114*1959.99 > 100000
+
+
+#####        [ BKNG ] 
+2023-08-03 10:02 
+ERROR: FF Max Capital 55*3059.72 > 100000 10:26
+
+FILL: 2023-08-03 09:49 
+3039.99 GSALGO BDincer Kore 
+
+
+#####        [ MELI ]
+today.
+
+MELI	1326.94	NSDQ	062E4C22202D-402	10:03
+
+
+     Matched up in both accounts with respect to their timestamped orders as well.
+
+
+https://user-images.githubusercontent.com/127531384/259516046-535e9efd-ce54-4cae-b79a-d2a4f5bb1c82.png
