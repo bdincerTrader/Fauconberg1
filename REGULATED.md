@@ -41,3 +41,39 @@ no orders placed in BD_Fauconberg. was running the same ALGO as BDincer Kore.
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/7dc6fdec-fd8b-4280-b897-6ce9be698f48)
 
 [SystemA-SystemB.xlsx](https://github.com/bdincerTrader/Fauconberg1/files/12323446/SystemA-SystemB.xlsx)
+
+----     ----     ----      ----     ----     ----     ----      ----     ----
+
+I just restarted the model in both accounts and now I am seeing this the other way around, meaning the orders and being propagated from SystemA (opposite to the issue I had earlier this AM).
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/3572c14f-432a-400b-9f8c-697881305a8b)
+
+
+
+
+This AM I launched fauconberg from two different FWD Testing Accounts.
+
+SystemA: Faunconberg was running in FWD Account: BD_Fauconberg (10.10.10.75)
+SystemB: FauconbergBandsLOB was running in FWD Account: BDincer Kore (10.10.10.77)
+
+The two systems above are identical, with respect to their timers and the CODE.
+
+FauconbergBandsLOB was operating on a much larger universe of symbols on server 10.10.10.77.
+
+** Symbol Universe: Price>50.00 ATR>5 and VOLUME>555555
+
+- I turned the two systems on maybe a minute apart.
+
+SystemB allocated to symbols MSTR and AON which are both in the universe of symbols covered by SystemA.
+***  Curious if the server (10.10.10.75) had an issue today, or does not cover the md in the tickers that are coded to spec in SustemA. Both SystemA and SystemB should have equally performed, allocated, etc..
+
+
+** SystemB was operating on a fixed set of symbols on server 10.10.10.75.
+
+** Symbol Universe: ['TMO','ELV','DDS','GS','TSLA','NFLX','INSP','PANW','PLPC','FIVE','FICO','ZBRA','ASML','SMCI','TMV','URI','FNGU','SPOT','MSCI','EQIX','MSTR','MELI','PH','ACN','ADBE','ADSK','ALB','ALGN','ALNY','AMD','AMP','AMT','ANET','ANSS','AON','APD','ARGX','ASML','AVGO','AZO','BA','BDX','BIDU','BIIB','BILL','BKNG','BLK','MPWR','BURL','CAR','CAT','CDNS','CELH','CHTR','CI','CMG','CMI','COIN','COST','CRWD','CSL','CTAS','CVNA'];
+   
+
+Thanks for looking into this!
+
+/s/ BD.
+  
