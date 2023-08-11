@@ -28,3 +28,5 @@ no orders placed in BD_Fauconberg. was running the same ALGO as BDincer Kore.
 
     
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/62096385-b810-4e43-b829-1cc1dd9db5c6)
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/1d2ed5b8-7c51-4421-910b-2d5e8b7fc4c8)
