@@ -1,3 +1,4 @@
+
   ### LOOKS GOOD.
 
   ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/5caac297-6d3a-4b04-86c4-246ec4a4e0c6)
@@ -38,3 +39,5 @@ no orders placed in BD_Fauconberg. was running the same ALGO as BDincer Kore.
 
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/7dc6fdec-fd8b-4280-b897-6ce9be698f48)
+
+[SystemA-SystemB.xlsx](https://github.com/bdincerTrader/Fauconberg1/files/12323446/SystemA-SystemB.xlsx)
