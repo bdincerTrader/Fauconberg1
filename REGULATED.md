@@ -6,6 +6,9 @@ Both accounts running the same system -looks good in both.
 
 [server Config Issue.pdf](https://github.com/bdincerTrader/Fauconberg1/files/12322654/server.Config.Issue.pdf)
 
+* looks like they are syncronized now.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e42641be-cc1f-4ecc-ba02-691c73118cad)
 
 
 ##  RUNNING BLOCK E: 2023-08-11
