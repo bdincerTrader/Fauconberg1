@@ -2,6 +2,10 @@
 
   ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/5caac297-6d3a-4b04-86c4-246ec4a4e0c6)
 
+Both accounts running the same system -looks good in both.
+
+[server Config Issue.pdf](https://github.com/bdincerTrader/Fauconberg1/files/12322654/server.Config.Issue.pdf)
+
 
 
 ##  RUNNING BLOCK E: 2023-08-11
