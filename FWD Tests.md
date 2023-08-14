@@ -1,12 +1,17 @@
 
 2023-08-14
 
-** PENDING ORDER MAX ERROR ADJUSTED.
+#### MAX CAPITAL SET TO 5% ACCOUNT CAPITAL FOR EACH SYMBOL.
+
+
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/347de91c-fb86-4242-81b7-8ddb17f0ce99)
 
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e918d9ce-69e6-498c-958d-1f7a97a7e5cc)
+
+
+** PENDING ORDER MAX ERROR ADJUSTED.
 
 
 #### RESTART SYSTEM.
@@ -25,9 +30,7 @@ LINE 326:  IF    account[self.symbol].pending.count_long>38
 
 
 
-I shut it down early today -working on another model.
 
-** I still \nNeed to run the Unit/ Allocation backtest on a few single names
 
 
 
