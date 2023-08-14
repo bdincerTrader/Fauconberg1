@@ -1,7 +1,7 @@
 
 2023-08-14
 
-#### MAX CAPITAL SET TO 5% ACCOUNT CAPITAL FOR EACH SYMBOL.
+#### MAX CAPITAL SET TO 5% ACCOUNT BP FOR EACH SYMBOL.
 
 
 
@@ -20,17 +20,18 @@
 
 account[self.symbol].pending.count_long<37
 
-LINE 275:  IF	account[self.symbol].pending.count_long<38
+
+	LINE 275:  IF	account[self.symbol].pending.count_long<38
 	     RETURN
 		CANCEL BIDS/ REDUCE RISK
 
-LINE 326:  IF    account[self.symbol].pending.count_long>38 
+
+	LINE 326:  IF    account[self.symbol].pending.count_long>38 
 	     RETURN
 		CANCEL BIDS/ REDUCE RISK
 
 ##### ADJUSTED MKT SPREAD [ 1.0036 ]
 
-askRTE PARAM.
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/f10d58cd-9b0d-45ce-bc6c-566c8bb78100)
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/b95d9d8f-a39b-428f-80d9-27a87d116af8)
@@ -38,6 +39,7 @@ askRTE PARAM.
 ##### RESTART SYSTEM.
 **  SELF TRADE ERROR ADJUSTED.
 
+	askRTE PARAM.
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/3df5dbd2-0857-4a64-ba31-3fea7c4c3a83)
 
