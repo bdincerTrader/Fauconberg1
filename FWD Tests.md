@@ -68,8 +68,21 @@ BD_Fauconberg
                    pass;
            return;
 
-	
+##### RESTART SYSTEM.
 
+**  PENDING ORDER MAX ERROR.
+**  MAX CAP ALLOCATION ERROR.
+**  SELF TRADE ERROR ADJUSTED.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/56aba6fb-84ed-47df-a07b-f572c5172c15)
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/2daf4173-0a91-4c87-b852-56774bd176f7)
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/3a9be267-ee8b-4479-9b58-fdafa2182bee)
+
+--
 The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors 
     
 - Max cap for an order in QA account is 100K. 
