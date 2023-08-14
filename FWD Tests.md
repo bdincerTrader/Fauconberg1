@@ -80,7 +80,12 @@ BD_Fauconberg
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/3a9be267-ee8b-4479-9b58-fdafa2182bee)
 
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bcec2e22-8368-4f23-9d2f-14c72086a112)
+
+##### CLEAR
 --
+
 The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors 
     
 - Max Cap / Order set to %/Symbol relative to BP. 
