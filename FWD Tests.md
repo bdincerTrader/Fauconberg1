@@ -9,9 +9,9 @@
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e918d9ce-69e6-498c-958d-1f7a97a7e5cc)
 
 
-### RESTART SYSTEM.
+#### RESTART SYSTEM.
 
-** I PUT THESE GATES UP TO AVOID THE FAILED PENDING ORDER CHECK ERROR
+#### I PUT THESE GATES UP TO AVOID THE FAILED PENDING ORDER CHECK ERROR
 
 account[self.symbol].pending.count_long<37
 
