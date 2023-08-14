@@ -1,5 +1,5 @@
 
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/51d9db2e-965e-4b2a-8715-0d7487a46d37)
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/77bad128-2c44-47e4-907e-b61341879393)
 
 
 META: Max Cap. Regulator.
