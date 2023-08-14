@@ -1,3 +1,30 @@
+
+2023-08-14
+
+** PENDING ORDER MAX ERROR ADJUSTED.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/347de91c-fb86-4242-81b7-8ddb17f0ce99)
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e918d9ce-69e6-498c-958d-1f7a97a7e5cc)
+
+
+### RESTART SYSTEM.
+
+# I PUT THESE GATES UP TO AVOID THE FAILED PENDING ORDER CHECK ERROR
+
+account[self.symbol].pending.count_long<37
+
+LINE 275:  IF	account[self.symbol].pending.count_long<38
+	     RETURN
+		CANCEL BIDS/ REDUCE RISK
+
+LINE 326:  IF    account[self.symbol].pending.count_long>38 
+	     RETURN
+		CANCEL BIDS/ REDUCE RISK
+
+
+
 I shut it down early today -working on another model.
 
 ** I still \nNeed to run the Unit/ Allocation backtest on a few single names
@@ -26,18 +53,6 @@ The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/b5fe5629-7998-49de-b3eb-c9d252519a75)
 
-
-2023-08-14
-
-** PENDING ORDER MAX ERROR ADJUSTED.
-
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/347de91c-fb86-4242-81b7-8ddb17f0ce99)
-
-
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e918d9ce-69e6-498c-958d-1f7a97a7e5cc)
-
-
-### RESTART SYSTEM.
 
 
 
