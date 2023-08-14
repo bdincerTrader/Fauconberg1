@@ -30,3 +30,5 @@ NFLX: + Max Cap. Regulator
 
 [trades-table-data (NFLX-WITH MAX CAP REGULATOR).csv](https://github.com/bdincerTrader/Fauconberg1/files/12335797/trades-table-data.NFLX-WITH.MAX.CAP.REGULATOR.csv)
 
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/edbf280a-cce8-46d3-84cf-aff954e53e67)
