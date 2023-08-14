@@ -46,7 +46,8 @@ account[self.symbol].pending.count_long<37
 	self.chkHtz
 
 ##### RESTART SYSTEM.
-**  + SELF TRADE ERROR ADJUSTED.
+**  SELF TRADE ERROR ADJUSTED.
+--
 
 
 The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors 
@@ -54,10 +55,8 @@ The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors
 - Max cap for an order in QA account is 100K. 
 - I am running the algo on 252 symbols simultaneously in FWD testing.
 
-** I use the Unit Allocation parameter/ single symbols (limits ttl exposure).
-
-** If it's ok with you, I want to double check on something tonight/ Tomorrow in back/FWD testing.
-** Maybe blacklist a few additional symbols.
+** Unit Allocation parameter/ single symbols (limits ttl exposure).
+--
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/620a3d72-7d3e-4fce-b021-e830cfdaac84)
 
