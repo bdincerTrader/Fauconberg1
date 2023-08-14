@@ -47,7 +47,10 @@ account[self.symbol].pending.count_long<37
 
 ##### RESTART SYSTEM.
 **  SELF TRADE ERROR ADJUSTED.
---
+
+BD_Fauconberg
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/4a8f63df-d4df-475b-bd37-64c457bd6649)
 
 
 The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors 
