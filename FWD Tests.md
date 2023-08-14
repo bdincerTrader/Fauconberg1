@@ -83,8 +83,8 @@ BD_Fauconberg
 --
 The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors 
     
-- Max cap for an order in QA account is 100K. 
-- I am running the algo on 252 symbols simultaneously in FWD testing.
+- Max Cap / Order set to %/Symbol relative to BP. 
+- 252 symbols simultaneously in FWD testing.
 
 ** Unit Allocation parameter/ single symbols (limits ttl exposure).
 --
