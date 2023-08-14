@@ -31,3 +31,6 @@
 ### MAX CAPITAL 29K
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/8b8bfcad-b735-4165-a97a-4ed221e40046)
 
+
+## data usage.
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/ec014751-cecd-4777-8396-5beca628d409)
