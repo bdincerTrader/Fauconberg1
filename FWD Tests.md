@@ -21,7 +21,7 @@
 account[self.symbol].pending.count_long<37
 
 
-	LINE 275:  IF	account[self.symbol].pending.count_long<38
+	LINE 275:  IF	account[self.symbol].pending.count_long<32
 	     RETURN
 		CANCEL BIDS/ REDUCE RISK
 
