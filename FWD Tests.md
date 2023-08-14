@@ -16,7 +16,7 @@
 
 #### RESTART SYSTEM.
 
-#### I PUT THESE GATES UP TO AVOID THE FAILED PENDING ORDER CHECK ERROR
+** I PUT THESE GATES UP TO AVOID THE FAILED PENDING ORDER CHECK ERROR.
 
 account[self.symbol].pending.count_long<37
 
@@ -28,7 +28,15 @@ LINE 326:  IF    account[self.symbol].pending.count_long>38
 	     RETURN
 		CANCEL BIDS/ REDUCE RISK
 
+##### ADJUSTED MKT SPREAD [ 1.0036 ]
 
+askRTE PARAM.
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/f10d58cd-9b0d-45ce-bc6c-566c8bb78100)
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/b95d9d8f-a39b-428f-80d9-27a87d116af8)
+
+##### RESTART SYSTEM.
+**  SELF TRADE ERROR ADJUSTED.
 
 
 
