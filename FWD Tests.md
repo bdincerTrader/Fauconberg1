@@ -8,8 +8,6 @@
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/347de91c-fb86-4242-81b7-8ddb17f0ce99)
 
 
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/e918d9ce-69e6-498c-958d-1f7a97a7e5cc)
-
 
 ** PENDING ORDER MAX ERROR ADJUSTED.
 
