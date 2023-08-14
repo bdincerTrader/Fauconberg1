@@ -53,6 +53,23 @@ BD_Fauconberg
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/4a8f63df-d4df-475b-bd37-64c457bd6649)
 
 
+### MAX PENDING ORDER ISSUE ADJUSTED
+
+
+        #ADDED THIS TO CUT DOWN THE ORDER BOOK [STALE ORDERS]
+
+        if(account[self.symbol].pending.count_long>36):
+           adjustBIDS=account[self.symbol].pending.orders; 
+           ctPend=len(adjustBIDS);
+           while(ctPend>0):
+               ctPend-=1; pendingUnit=adjustBIDS[ctPend];
+               if(pendingUnit.shares>0):
+                   discharge = order.cancel(order_id=pendingUnit.order_id);
+                   pass;
+           return;
+
+	
+
 The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors 
     
 - Max cap for an order in QA account is 100K. 
