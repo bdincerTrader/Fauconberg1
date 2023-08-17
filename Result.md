@@ -65,6 +65,11 @@ If the symbols in the scope are in "bear" territory, the program doesn't allocat
 
 ****** NO ORDERS 8/16 OR 8/17 (AS OF CURRENT)
 
+I thought there was a data issue yesterday in FWD Testing.
+
+... I dropped a line of Code in there to automatically buy 1 Share of any Symbol that entered the on_start() Fn.
+... Turned the system off after and closed all positions manually.
+
    
 ### QQQ
 
