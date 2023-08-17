@@ -107,6 +107,9 @@ The only errors/rejects I saw in BD_Fauconberg were the Max Capital errors
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/b5fe5629-7998-49de-b3eb-c9d252519a75)
 
 
+If the symbols in the scope are in "bear" territory, the program doesn't allocate.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/a5a77712-6ce8-4830-8923-c941de511672)
 
 
 
