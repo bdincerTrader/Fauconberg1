@@ -93,3 +93,6 @@ tickerItrG=['MPWR','TMO','ELV','DDS','ORLY','MSCI','EQIX','MSTR','MELI','BKNG','
     
 tickerItrH=['ROP','SAIA','SBAC','SEDG','SHW','SIMO','SMCI','SN','SNOW','SNPS','SOXX','SPGI','SPOT','STE','SYK','TDG','TDY','TEAM','TMO','TSCO','TSLA','ULTA','UNH','UPST','URI','VGT','VRTX','W','WAT','WCC','WDAY','WSO','WST','ZBRA','ZS'];
      
+### BACKTEST SUMMARY
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/25b76d2a-e805-4c4f-af45-a39132ece9cf)
