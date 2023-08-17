@@ -54,6 +54,25 @@ HASH: 4424ad0c39f5fa5c0be97862df577cc1
 
 ***** 
 
+If the symbols in the scope are in "bear" territory, the program doesn't allocate.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/a5a77712-6ce8-4830-8923-c941de511672)
+
+
+
+****** NO ORDERS 8/16 OR 8/17 (AS OF CURRENT)
+
+   
+### QQQ
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/f95f7686-877d-4395-8a1f-f3d6763f92bd)
+
+
+### SPY
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/6196a24c-c272-4d31-8ae5-bee5e804c06c)
+
+
+### SETS
     
 tickerItrA=['FNGU','TMO','ELV','DDS','GS','TSLA','NFLX','INSP','PANW','PLPC','FIVE','FICO','ZBRA','ASML','SMCI','TMV','URI','FNGU','SPOT','MSCI','EQIX','MSTR','MELI','PH','ACN','ADBE','ADSK','ALB','ALGN','ALNY','AMD','AMP','AMT','ANET','ANSS','AON','APD','ARGX','ASML','AVGO','AZO','BA','BDX','BIDU','BIIB','BILL','BKNG','BLK','MPWR','BURL','CAR','CAT','CDNS','CELH','CHTR','CI','CMG','CMI','COIN','COST','CRWD','CSL','CTAS','CVNA'];
     
