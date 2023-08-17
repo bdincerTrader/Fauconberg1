@@ -54,6 +54,9 @@ HASH: 4424ad0c39f5fa5c0be97862df577cc1
 
 ***** 
 
+## LONG ONLY SYSTEM.
+
+
 If the symbols in the scope are in "bear" territory, the program doesn't allocate.
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/a5a77712-6ce8-4830-8923-c941de511672)
