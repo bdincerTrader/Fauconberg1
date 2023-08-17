@@ -101,3 +101,10 @@ tickerItrH=['ROP','SAIA','SBAC','SEDG','SHW','SIMO','SMCI','SN','SNOW','SNPS','S
 ### BACKTEST SUMMARY
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/25b76d2a-e805-4c4f-af45-a39132ece9cf)
+
+
+
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/23a35d4a-66b8-4427-a1aa-4468eb8b4082)
+
