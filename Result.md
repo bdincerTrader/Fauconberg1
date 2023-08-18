@@ -80,6 +80,28 @@ I thought there was a data issue yesterday in FWD Testing.
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/6196a24c-c272-4d31-8ae5-bee5e804c06c)
 
 
+
+*** No  further updates required at this time.
+    
+    0 Rejects/ Errors.
+    0 EOD Positions.
+    108 Symbols Evaluated.
+    15 Symbols Traded.
+    0 Human Intervention.
+
+$27,456 MTM P/L
+--
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/df262f57-ee8e-4113-91f4-b5c65346d3b6)
+
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/04c39251-50c9-4500-8c79-2d839903393c)
+
+
+
+
+
+
 ### SETS
     
 tickerItrA=['FNGU','TMO','ELV','DDS','GS','TSLA','NFLX','INSP','PANW','PLPC','FIVE','FICO','ZBRA','ASML','SMCI','TMV','URI','FNGU','SPOT','MSCI','EQIX','MSTR','MELI','PH','ACN','ADBE','ADSK','ALB','ALGN','ALNY','AMD','AMP','AMT','ANET','ANSS','AON','APD','ARGX','ASML','AVGO','AZO','BA','BDX','BIDU','BIIB','BILL','BKNG','BLK','MPWR','BURL','CAR','CAT','CDNS','CELH','CHTR','CI','CMG','CMI','COIN','COST','CRWD','CSL','CTAS','CVNA'];
