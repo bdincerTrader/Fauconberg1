@@ -89,7 +89,7 @@ I thought there was a data issue yesterday in FWD Testing.
     15 Symbols Traded.
     0 Human Intervention.
 
-$27,456 MTM P/L
+#### $27,456 MTM P/L
 --
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/df262f57-ee8e-4113-91f4-b5c65346d3b6)
