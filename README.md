@@ -1,4 +1,18 @@
 # Fauconberg1
+
+##### QA 2023-10-03 [ needs to be pushed into PROD. ]
+
+*** more accurate and precise, with respect to execution logic.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/17cab040-ca84-4c03-98d2-1bdec176aa01)
+
+
+##### LIVE 2023-10-03 [ needs the updates from QA 2023-10-03 version ]
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/7a077830-e589-4713-b5c7-65d6282ee64b)
+
+
+
  
  Fauconberg Model: Backtest Results for 'MSTR' </br>
  N-00068 BD_Fauconberg</br>
