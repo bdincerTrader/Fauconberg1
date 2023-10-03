@@ -7,11 +7,9 @@
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/17cab040-ca84-4c03-98d2-1bdec176aa01)
 
 
-##### LIVE 2023-10-03 [ needs the updates from QA 2023-10-03 version ]
+##### LIVE 2023-10-03 [ *** needs the updates from QA 2023-10-03 version *** ]
 
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/7a077830-e589-4713-b5c7-65d6282ee64b)
-
-
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/6cd25020-780b-48a5-a720-5640eccea0a5)
 
  
  Fauconberg Model: Backtest Results for 'MSTR' </br>
