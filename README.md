@@ -9,7 +9,7 @@
 
 ##### LIVE 2023-10-03 [ *** needs the updates from QA 2023-10-03 version *** ]
 
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/6cd25020-780b-48a5-a720-5640eccea0a5)
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/31047ad7-60de-4967-a92f-1233c0339eb0)
 
  
  Fauconberg Model: Backtest Results for 'MSTR' </br>
