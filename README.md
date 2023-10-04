@@ -13,6 +13,8 @@
 
  [fitznaele SCRIPT CHANGES.pdf](https://github.com/bdincerTrader/Fauconberg1/files/12804126/fitznaele.SCRIPT.CHANGES.pdf)
 
+[ARCA4 SCRIPT CHANGES.pdf](https://github.com/bdincerTrader/Fauconberg1/files/12804180/ARCA4.SCRIPT.CHANGES.pdf)
+
  Fauconberg Model: Backtest Results for 'MSTR' </br>
  N-00068 BD_Fauconberg</br>
 
