@@ -11,7 +11,8 @@
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/31047ad7-60de-4967-a92f-1233c0339eb0)
 
- 
+ [fitznaele SCRIPT CHANGES.pdf](https://github.com/bdincerTrader/Fauconberg1/files/12804126/fitznaele.SCRIPT.CHANGES.pdf)
+
  Fauconberg Model: Backtest Results for 'MSTR' </br>
  N-00068 BD_Fauconberg</br>
 
