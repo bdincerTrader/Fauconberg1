@@ -14,3 +14,10 @@
 	 'realized_short_proceeds'	 'realized_ytd_entry_pl'	 'realized_ytd_mtm_pl'	 'reassign_usertag'	 'rejected_orders'	 'risk_settings'	 'suboffice'	
   
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/11c71dc8-6f6f-423a-9edb-a6983027dbdb)
+
+
+ACCOUNT_BASE		0	1	2	3	4	5	6	7	8	9	10	11	12
+0	Notional Exposure	total notional	notional long	abs notional short	wgt. Long	wgt. Short	LONG BETA	   -SHORT BETA	(LONG BETA + SHORT BETA)	BETA WEIGHTED LONG	BETA WEIGHTED SHORT	NET EXPOSURE: ($LONG - $SHORT)	(BETA WEIGHTED RISK)	(ABSOLUTE WEIGHTED BETA RISK)
+1	Valuation	total market valuation	long market valuation	short market valuation	shares long	shares short	PL LONG	PL SHORT	Total Account PL	LONG ATTR.	SHORT ATTR.	NET EXPOSURE: SHARES	XXX	XXX
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/d2c18db8-dbae-4dd6-ac6f-52ed46778ace)
