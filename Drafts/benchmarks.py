@@ -11,12 +11,6 @@ import os
     
 from pathlib import Path
 
-
-
-# https://ui.kite.ktg.local/#/glossary/683
-client = Client(master='https://tath.kite.cluster.ktginnovation.com/', token='bcc7defb-9df6-38be-bd66-fa35932d2366')  # noqa: E501
-
-
 # tickerItrAaRon=['SPY','QQQ','BITI','COIN','ACN','ADBE','ALB','ALGN','ALNY','AMP','ANET','ANSS','ARM','ASML','AVGO','BKNG','BLDR','BLK','BURL','CAR','CART','CAT','CDNS','CELH','CHTR','CI','CMG','COST','CRWD','CSL','CTAS','DE','DECK','DHR','DPZ','ELF','ELV','EPAM','EQIX','ETN','FDS','FNGU','FSLR','GS','GWW','HCA','HUBB','HUBS','HUM','ICLR','IDXX','IGV','ILMN','INSP','INTU','ISRG','IT','KLAC','LII','LLY','LMT','LRCX','LULU','MA','MCK','MCO','MDB','MDY','MELI','META','MKTX','MLM','MORN','MPWR','MRNA','MSCI','MSFT','MSTR','NFLX','NOC','NOW','NVDA','NXST','ODFL','OIH','ORLY','PANW','PAYC','PH','PODD','RBC','REGN','RH','ROK','ROP','SAIA','SEDG','SMCI','SNOW','SNPS','SOXX','SPGI','SWAV','SYK','TDG','TDY','TEAM','TMO','TSLA','ULTA','UNH','URI','VEEV','VGT','VRTX','WAT','WING','WST','ZS','ACN','ADBE','ALB','ALGN','ALNY','AMP','ANET','ANSS','ARM','ASML','AVGO','BKNG','BLDR','BLK','BURL','CAR','CART','CAT','CDNS','CELH','CHTR','CI','CMG','COST','CRWD','CSL','CTAS','DE','DECK','DHR','DPZ','ELF','ELV','EPAM','EQIX','ETN','FDS','FNGU','FSLR','GS','GWW','HCA','HUBB','HUBS','HUM','ICLR','IDXX','IGV','ILMN','INSP','INTU','ISRG','IT','KLAC','LII','LLY','LMT','LRCX','LULU','MA','MCK','MCO','MDB','MDY','MELI','META','MKTX','MLM','MORN','MPWR','MRNA','MSCI','MSFT','MSTR','NFLX','NOC','NOW','NVDA','NXST','ODFL','OIH','ORLY','PANW','PAYC','PH','PODD','RBC','REGN','RH','ROK','ROP','SAIA','SEDG','SMCI','SNOW','SNPS','SOXX','SPGI','SWAV','SYK','TDG','TDY','TEAM','TMO','TSLA','ULTA','UNH','URI','VEEV','VGT','VRTX','WAT','WING','WST','ZS','ACN','ADBE','ALB','ALGN','ALNY','AMP','ANET','ANSS','ARM','ASML','AVGO','BKNG','BLDR','BLK','BURL','CAR','CART','CAT','CDNS','CELH','CHTR','CI','CMG','COST','CRWD','CSL','CTAS','DE','DECK','DHR','DPZ','ELF','ELV','EPAM','EQIX','ETN','FDS','FNGU','FSLR','GS','GWW','HCA','HUBB','HUBS','HUM','ICLR','IDXX','IGV','ILMN','INSP','INTU','ISRG','IT','KLAC','LII','LLY','LMT','LRCX','LULU','MA','MCK','MCO','MDB','MDY','MELI','META','MKTX','MLM','MORN','MPWR','MRNA','MSCI','MSFT','MSTR','NFLX','NOC','NOW','NVDA','NXST','ODFL','OIH','ORLY','PANW','PAYC','PH','PODD','RBC','REGN','RH','ROK','ROP','SAIA','SEDG','SMCI','SNOW','SNPS','SOXX','SPGI','SWAV','SYK','TDG','TDY','TEAM','TMO','TSLA','ULTA','UNH','URI','VEEV','VGT','VRTX','WAT','WING','WST','ZS']  # noqa: E501
 tickerItrAaRon=['MDB', 'EQIX']
 observeTickers=[]
