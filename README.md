@@ -44,6 +44,12 @@
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bdd5faf2-809f-43ac-9226-e6b5b89e1533)
 
+LIVE MODEL.
+
+![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/7a9a1be8-a093-4b70-8c0a-5d2f9cf77519)
+
+
+
 ### DAILY PL LOSERS
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/d1b1a386-b949-4f32-afe1-443537059de8)
