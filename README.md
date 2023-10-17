@@ -22,9 +22,7 @@
 
 # Trade Blotter
 
-* [LGTAMF](https://archive.org/details/Bo_Dincer)
-
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/4b2179c5-6490-4d7c-8b01-fceae69ff2c0)
+* [ARCHIVED](https://archive.org/details/Bo_Dincer)
 
 
 [Trades - MSTR_CHK.csv](https://github.com/bdincerTrader/Fauconberg1/files/11569624/Trades.-.MSTR_CHK.csv)
